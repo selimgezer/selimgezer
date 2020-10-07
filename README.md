@@ -1,8 +1,7 @@
 Merhaba, Ben Selim GEZER
 
-Hayatıma bir dokunuşuyla hayatımı değiştiren matematik öğretmenim gibi ben de sizlerin hayatına dokunmak istiyorum. Umarım paylaştıklarım sizlerin projelerine de katkı sağlayabilir.
+Bir dokunuşuyla hayatımı değiştiren matematik öğretmenim gibi ben de sizlerin hayatlarına dokunmak istiyorum. Umarım paylaştıklarım sizlerin projelerine de katkı sağlayabilir.
 
-İletişim 
 Youtube:
 https://www.youtube.com/channel/UCnn1UMgLKRJSS_JO-CrSWpA
 

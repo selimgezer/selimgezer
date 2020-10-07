@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**SelimGezer/SelimGezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Merhaba, Ben Selim GEZER
 
 Hayatıma bir dokunuşuyla hayatımı değiştiren matematik öğretmenim gibi ben de sizlerin hayatına dokunmak istiyorum. Umarım paylaştıklarım sizlerin projelerine de katkı sağlayabilir.

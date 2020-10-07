@@ -1,4 +1,4 @@
-Merhaba, Ben Selim GEZER
+Merhaba 👋🏻, Ben Selim GEZER
 
 Bir dokunuşuyla hayatımı değiştiren matematik öğretmenim gibi ben de sizlerin hayatlarına dokunmak istiyorum. Umarım paylaştıklarım sizlerin projelerine de katkı sağlayabilir.
 
